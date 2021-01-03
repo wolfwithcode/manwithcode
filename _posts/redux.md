@@ -1,3 +1,15 @@
+---
+title: 'Học React/Redux qua ví dụ thực tế: Redux'
+excerpt: 'Học React/Redux qua ví dụ thực tế: Redux'
+coverImage: '/assets/blog/preview/cover.jpg'
+date: '2020-12-12T05:35:07.322Z'
+author:
+  name: Code A holic guy
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/preview/cover.jpg'
+---
+
 # Học React/Redux qua ví dụ thực tế: Redux
 
 [codeaholicguy](https://codeaholicguy.com/author/hoangnn93/ "Đăng bởi codeaholicguy")  [Chuyện coding](https://codeaholicguy.com/category/chuyen-coding/),  [Học React/Redux qua ví dụ thực tế](https://codeaholicguy.com/category/chuyen-coding/hoc-reactredux-qua-vi-du-thuc-te/),  [Javascript](https://codeaholicguy.com/category/chuyen-coding/javascript/),  [ReactJS](https://codeaholicguy.com/category/chuyen-coding/javascript/reactjs/),  [Redux](https://codeaholicguy.com/category/chuyen-coding/javascript/redux/)  08/16/2016  9 Minutes
