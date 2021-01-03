@@ -1,2 +1,2 @@
-git rebase origin/master
-git push origin master
+git rebase origin/main
+git push origin main
